@@ -1,4 +1,5 @@
 # albumlist
 
-npm install
+npm install,
+
 npm run serve
